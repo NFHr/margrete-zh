@@ -4,18 +4,18 @@
 
 * 选择 **Detailed Settings （选曲后的详细设置）" > **Game** > **Auto Play**
 
-* ![Auto](imgs/umiguri-auto.png)
+* ![Auto](../imgs/umiguri-auto.png)
 
 
 ## 写谱模式
 
 * 在选曲界面按下<kbd>F4</kbd>进入写谱模式，再次按下<kbd>F4</kbd>则退出写谱模式。
  
-  ![editor1](imgs/umiguri-editor.png)
+  ![editor1](../imgs/umiguri-editor.png)
 
 * 写谱模式下可调整播放时间，更改流速/播放速度，以及检查无理配置。
 
-  ![editor2](imgs/umiguri-editor2.png)
+  ![editor2](../imgs/umiguri-editor2.png)
 
 * 使用方法
 

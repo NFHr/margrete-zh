@@ -2,7 +2,7 @@
 
 ## TAP
 
-![TAP](imgs/note-tap.png)
+![TAP](../imgs/note-tap.png)
 
 * 最基本的音符。
 
@@ -10,7 +10,7 @@
 
 ## ExTAP
 
-![ExTap](imgs/note-extap.png)
+![ExTap](../imgs/note-extap.png)
 
 * 必定获得最高判定 (JUSTICE CRITICAL) 的 TAP 音符。
 
@@ -18,7 +18,7 @@
 
 ## FLICK
 
-![FLICK](imgs/note-flick.png)
+![FLICK](../imgs/note-flick.png)
 
 * 需要快速向左或右滑动的音符。
 
@@ -28,7 +28,7 @@
 
 ## DAMAGE
 
-![DAMAGE](imgs/note-damage.png)
+![DAMAGE](../imgs/note-damage.png)
 
 * 碰到后会产生 MISS 判定的地雷音符。不碰则会获得最高判定 (JUSTICE CRITICAL)。
 
@@ -38,7 +38,7 @@
 
 ## HOLD
 
-![HOLD](imgs/note-hold.png)
+![HOLD](../imgs/note-hold.png)
 
 * 需要持续按到终点的音符。
 
@@ -46,7 +46,7 @@
 
 ## SLIDE
 
-![SLIDE](imgs/note-slide.png)
+![SLIDE](../imgs/note-slide.png)
 
 * 按照轨迹滑动到终点的音符。
 
@@ -56,13 +56,13 @@
 
   * 中继点、控制点: <span style="color:red"> 1, 2, 3, 4, **5**, 6, 8, **10**, **12**, **14**, 16 </span>
 
-![Examples](imgs/reg-slide.png)
+![Examples](../imgs/reg-slide.png)
 
 > *官方谱面中存在少许个例*
 
 ## AIR
 
-![AIR](imgs/note-air.png)
+![AIR](../imgs/note-air.png)
 
 * 挥动手臂往上 (AIR-UP) 或往下 (AIR-DOWN) 的音符。
 
@@ -74,23 +74,23 @@
 
 ## AIR-HOLD
 
-![AIR-HOLD](imgs/note-airhold.png)
+![AIR-HOLD](../imgs/note-airhold.png)
 
 * 向上挥动手臂 (AIR-ACTION) 并保持到终点，在中继点和终点也需要挥动手臂 (AIR-ACTION) 的音符。
 
 * 终点的音符可以删除。
 
-    ![没有终点的AIR-HOLD](imgs/example/air-no-end.png)
+    ![没有终点的AIR-HOLD](imgsair-no-end.png)
 
 * 可以设置 AIR 颜色反转和 AIR-HOLD 高度。
 
-    ![不同高度的AIR-HOLD](imgs/example/air-example1.png)
+    ![不同高度的AIR-HOLD](imgsair-example1.png)
 
 * 可以放置的音符宽度为：<span style="color:red"> 1, 2, 3, 4, 6, 8, 16 </span>
 
 ## AIR-SLIDE
 
-![AIR-SLIDE](imgs/note-airslide.png)
+![AIR-SLIDE](../imgs/note-airslide.png)
 
 * 向上挥动手臂 (AIR-ACTION) 并保持到终点，在中继点和终点也需要挥动手臂 (AIR-ACTION) 的音符。
 
@@ -100,7 +100,7 @@
 
 * 可以设置 AIR 颜色反转和 AIR-HOLD 高度。
 
-    ![不同高度的AIR-SLIDE](imgs/example/air-example2.png)
+    ![不同高度的AIR-SLIDE](imgsair-example2.png)
 
 * 可以放置的音符宽度为：
 
@@ -110,7 +110,7 @@
 
 ## AIR-CRUSH
 
-![AIR-CRUSH](imgs/note-aircrush.png)
+![AIR-CRUSH](../imgs/note-aircrush.png)
 
 * 起点、中继点、终点需要挥动手臂 (AIR-CRUSH ACTION) 的音符。中间的线只是装饰，没有判定。
 
@@ -123,7 +123,7 @@
 
 ## AIR-TRACE
 
-![air trace](imgs/note-airtrace.png)
+![air trace](../imgs/note-airtrace.png)
 
 * 只是装饰线，并没有任何判定 (AIR-CRUSH ACTION) 的音符。
 
@@ -133,7 +133,7 @@
 
 ## ExSLIDE，ExHOLD
 
-![ex slide](imgs/note-exslide.png)
+![ex slide](../imgs/note-exslide.png)
 
 * 在[谱面属性设定](docs/basic/basic-export#step1-谱面属性设定)中启用 **Join ExTAP to SLIDE or HOLD BEGIN** 来使用。
 
@@ -145,13 +145,13 @@
 
   * 也就是说，起点、ExTAP、带有 AIR 的 ExTAP 这**三个音符**会叠在一起。
   
-    ![exslide air](imgs/example/exslide-air.png)
+    ![exslide air](imgsexslide-air.png)
 
 * **另外只要有一个 ExTAP 叠加，所有相同起点的判定都会变成 ExTAP 式的。**
 
   * 因此没有必要叠加多个 ExTap
   * 
     *（图中有两个相同的起点和一个ExTap相互叠加）*
-    ![two exslide](imgs/example/exslide-example.png)
+    ![two exslide](imgsexslide-example.png)
 
     

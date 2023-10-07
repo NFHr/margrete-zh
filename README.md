@@ -1,11 +1,11 @@
 # 关于
 
-这个网页是关于 UMIGURI 的专用谱面制作器 Margrete 的使用教程
+这个网页是关于 UMIGURI 的专用谱面制作器 Margrete 的中文使用教程
 
 
 ## 前言
 
-这个教程将会帮助你熟悉玛格丽特的基本操作。
+这个教程将会帮助你熟悉 Margrete 的基本操作。
 
 以下是给初次写谱玩家的推荐学习顺序：
 
@@ -20,7 +20,7 @@
 5. 准备工作大功告成，此时你便可以开始谱面创作了。
    * 进阶篇将会帮助你制作出一些更加炫酷的配置。参考群文件或是官方谱面同样也会为写谱提供很大帮助。
 
-![chart example](imgs/example/chart-example.png)
+![chart example](docs/imgs/chart-example.png)
 
 > Tip: 写谱的时候多多使用快捷键，能很大程度提高写谱的效率。
 

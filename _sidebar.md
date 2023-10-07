@@ -1,4 +1,4 @@
-* [主页](/ "Margrete")
+* [主页](/ "Margrete-zh")
 * [术语](docs/terminologies)
 * 基础篇
   * [界面各部分的名称](docs/basic/basic-screen-desc)
