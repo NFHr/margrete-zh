@@ -24,7 +24,7 @@
 
 2. 将音源名（带扩展名）填写到**BGM filename**里。
 
-![音源位置](imgsaudio-example.png)
+![音源位置](../imgs/audio-example.png)
 
 > Tips: 推荐使用wav格式作为音源
 

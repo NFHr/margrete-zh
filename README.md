@@ -1,6 +1,6 @@
 # 关于
 
-这个网页是关于 UMIGURI 的专用谱面制作器 Margrete 的中文使用教程
+这里是 UMIGURI 的专用谱面制作器 Margrete 的中文使用教程。
 
 
 ## 前言
