@@ -4,7 +4,7 @@
 
 選択したノーツを左右反転または前後反転します。
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 変形したいノーツを選択します。
 
@@ -22,7 +22,7 @@
 
 選択した始点と終点が重なっている別々の SLIDE を結合します。
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 結合したい SLIDE 全体を選択します。
 
@@ -36,7 +36,7 @@
 
 カーソル位置にある SLIDE の中継点や制御点でノーツを分割し、別々の SLIDE に分けます。
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 分割したい SLIDE の中継点や制御点がある場所をクリックしてカーソル (赤線) を移動させます。
 
@@ -46,7 +46,7 @@
 
 
 
-![](../../img/transform-split-slide.png)
+![](imgs/transform-split-slide.png)
 
 
 
@@ -54,7 +54,7 @@
 
 AIR が設置されているノーツと、そのノーツと同じ位置に SLIDE 始点がある SLIDE を AIR-SLIDE に変換して接続します。
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 接続されるノーツと変換する SLIDE 全体を選択します。
 
@@ -64,7 +64,7 @@ AIR が設置されているノーツと、そのノーツと同じ位置に SLI
 
 
 
-![](../../img/conv-slide-airslide.png)
+![](imgs/conv-slide-airslide.png)
 
 
 
@@ -74,7 +74,7 @@ AIR が設置されているノーツと、そのノーツと同じ位置に SLI
 
 選択したノーツの間隔を拡大または縮小します。
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 変形したいノーツを選択します。
 

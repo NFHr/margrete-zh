@@ -1,24 +1,26 @@
 # 关于
 
-UMIGURI的专用谱面制作器 Margrete
+这个网页是关于 UMIGURI 的专用谱面制作器 Margrete 的使用教程
+
 
 ## 前言
 
-这个教程将会帮助你熟悉编辑器的基本操作，以下是给初次写谱玩家的推荐顺序：
+这个教程将会帮助你熟悉玛格丽特的基本操作。
 
-1. 了解 [术语](docs/terminologies) 和 [操作界面](docs/basic/basic-screen-desc) 。
+以下是给初次写谱玩家的推荐学习顺序：
 
-2. 熟悉 [音符的种类 / 放置规范](docs/basic/basic-chart-regulation) 。
+1. [术语](docs/terminologies) 和 [操作界面](docs/basic/basic-screen-desc)。
 
-3. 了解如何 [编辑谱面](docs/basic/basic-edit-chart) 。
+2. [音符的种类 / 放置规范](docs/basic/basic-chart-regulation)。
 
-4. 接下来创建一个新的谱面，或是打开 **"UMIGURI\data\music\EXAMPLE\Example\Untitled.mgxc"** 作为示例学习。
+3. 了解如何[编辑谱面](docs/basic/basic-edit-chart)。
 
-5. 在创建谱面之后，首先要设置 [谱面属性以及音源路径](docs/basic/basic-chart-property) 。
+4. 新建一张谱面，首先要 [设置谱面属性以及音源路径](docs/basic/basic-chart-property)； *或是打开 "UMIGURI\data\music\EXAMPLE\Example\Untitled.mgxc" 作为示例学习*
 
-6. 此时你便可以开始谱面创作了。进阶篇将会帮助你制作出一些更加炫酷的配置。参考群文件或是官方谱面同样也会为写谱提供很大帮助。
+5. 准备工作大功告成，此时你便可以开始谱面创作了。
+   * 进阶篇将会帮助你制作出一些更加炫酷的配置。参考群文件或是官方谱面同样也会为写谱提供很大帮助。
 
-![chart example](img/example/chart-example.png)
+![chart example](imgs/example/chart-example.png)
 
 > Tip: 写谱的时候多多使用快捷键，能很大程度提高写谱的效率。
 

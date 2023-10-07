@@ -4,21 +4,21 @@
 
 在编辑工具栏设置音符的间隔。
 
-![TIL](../../img/change-note-snap.png)
+![TIL](imgs/change-note-snap.png)
 
 ## 设置不同的时间线 (Timing Group)
 
 用来实现 [超车](advanced-softlanding) 变速的设定。音符和变速事件将与此处选择的时间线相关联。通常设置为 **TIL 0**。
 
-![TIL](../../img/change-current-til.png)
+![TIL](imgs/change-current-til.png)
 
 ## 插入音符
 
-1. 选择编辑工具栏中的 ![笔](../../img/edit-toolbar-pen.png) 切换到插入模式。
+1. 选择编辑工具栏中的 ![笔](imgs/edit-toolbar-pen.png) 切换到插入模式。
 
 2. 在音符工具栏中选择要放置的音符。
 
-   ![音符工具栏](../../img/example/toolbar-notes.png)
+   ![音符工具栏](imgs/example/toolbar-notes.png)
 
 3. 在谱面编辑区域中点击要插入的位置。
 
@@ -26,11 +26,11 @@
 
 <details><summary>点击这里阅读</summary><div>
 
-1. 在音符工具栏中选择 ![SLIDE 始点 / 制御点](../../img/note-toolbar-slide-ctrl.png) 或 ![SLIDE 中継点](../../img/note-toolbar-slide-step.png) 。
+1. 在音符工具栏中选择 ![SLIDE 始点 / 制御点](imgs/note-toolbar-slide-ctrl.png) 或 ![SLIDE 中継点](imgs/note-toolbar-slide-step.png) 。
 
 2. 点击目标 SLIDE 的背景。
 
-![insert slide step](../../img/insert-slide-step.png)
+![insert slide step](imgs/insert-slide-step.png)
 
 > Tips: 在插入控制点时，按住键盘上的 <kbd>Shift</kbd> 键就可以插入曲线控制点
 
@@ -40,11 +40,11 @@
 
 <details><summary>点击这里阅读</summary><div>
 
-1. 选择音符工具栏的 ![AIR-HOLD](../../img/note-toolbar-airhold.png) 。
+1. 选择音符工具栏的 ![AIR-HOLD](imgs/note-toolbar-airhold.png) 。
 
 2. 点击目标 AIR-HOLD 的中心线。
 
-![insert airhold step](../../img/insert-airhold-step.png)
+![insert airhold step](imgs/insert-airhold-step.png)
 
 </div></details>
 
@@ -52,11 +52,11 @@
 
 <details><summary>点击这里阅读</summary><div>
 
-1. 在音符工具栏中，如果要插入控制点，选择 ![AIR-SLIDE 制御点](../../img/note-toolbar-airslide-ctrl.png) ，如果要插入中继点，选择 ![AIR-SLIDE](../../img/note-toolbar-airslide-step.png) 。
+1. 在音符工具栏中，如果要插入控制点，选择 ![AIR-SLIDE 制御点](imgs/note-toolbar-airslide-ctrl.png) ，如果要插入中继点，选择 ![AIR-SLIDE](imgs/note-toolbar-airslide-step.png) 。
 
 2. 点击目标 AIR-SLIDE 的背景。
 
-![insert airhold step](../../img/insert-airslide-step.png)
+![insert airhold step](imgs/insert-airslide-step.png)
 
 </div></details>
 
@@ -64,11 +64,11 @@
 
 <details><summary>点击这里阅读</summary><div>
 
-1. 在音符工具栏中，如果要插入控制点，点击 ![AIR-CRUSH 制御点](../../img/note-toolbar-aircrush-ctrl.png) ，如果要插入中继点，点击 ![AIR-CRUSH](../../img/note-toolbar-aircrush-step.png) 。
+1. 在音符工具栏中，如果要插入控制点，点击 ![AIR-CRUSH 制御点](imgs/note-toolbar-aircrush-ctrl.png) ，如果要插入中继点，点击 ![AIR-CRUSH](imgs/note-toolbar-aircrush-step.png) 。
 
 2. 点击目标 AIR-CRUSH 的中心线。
 
-![insert airhold step](../../img/insert-aircrush-step.png)
+![insert airhold step](imgs/insert-aircrush-step.png)
 
 > Tips: AIR-CRUSH 中继点的横位置和宽度会自动改变
 
@@ -82,7 +82,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 在音符的中央附近拖动可以移动它们。
 
-![move note](../../img/move-note.png)
+![move note](imgs/move-note.png)
 
 ## 改变音符的宽度
 
@@ -90,7 +90,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 **除了控制点和 SLIDE 中继点以外，其宽度必须是 1, 2, 3, 4, 6, 8, 16 中的一个。**
 
-![resize note](../../img/resize-note.png)
+![resize note](imgs/resize-note.png)
 
 > Tips: 一些音符不能改变宽度
 
@@ -106,7 +106,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 ## 删除音符
 
-1. 选择编辑工具栏的 ![删除](../../img/edit-toolbar-erase.png) 切换到删除模式。
+1. 选择编辑工具栏的 ![删除](imgs/edit-toolbar-erase.png) 切换到删除模式。
 
 2. 点击要删除的音符。
 
@@ -114,7 +114,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 ## 批量操作音符或事件
 
-1. 选择编辑工具栏的 ![選択](../../img/edit-toolbar-select.png) 切换到选择模式。
+1. 选择编辑工具栏的 ![選択](imgs/edit-toolbar-select.png) 切换到选择模式。
 
 2. 在编辑区域内拖动鼠标，会出现一个用虚线表示的矩形，表示选择范围
 
@@ -122,7 +122,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 4. 松开鼠标按钮，此时确定选择范围。
 
-![selected notes](../../img/selected-notes.png)
+![selected notes](imgs/selected-notes.png)
 
 > Tips: 长音符必须包含中继点、终点等全部部分才能被选中
 
@@ -156,7 +156,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 * 所有的手柄都是单独移动的，如果想要批量移动，请使用 **正面视图** 。
 
-![edit air height](../../img/edit-air-height.png)
+![edit air height](imgs/edit-air-height.png)
 
 ### 使用正面视图
 
@@ -166,7 +166,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 2. 正面视图会显示出来。
 
-![front view](../../img/front-view.png)
+![front view](imgs/front-view.png)
 
 * 正面视图会显示出光标 (红线) 所在位置的音符的剖面，可以拖动它们来移动高度。
 
@@ -176,7 +176,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 ## 插入BPM变更事件
 
-1. 选择编辑工具栏的 ![選択](../../img/edit-toolbar-select.png) ，切换到选择模式。
+1. 选择编辑工具栏的 ![選択](imgs/edit-toolbar-select.png) ，切换到选择模式。
 
 2. 点击要插入的位置来移动光标 (红线)。
 
@@ -188,7 +188,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 ## 插入流速变更事件
 
-1. 选择编辑工具栏的 ![選択](../../img/edit-toolbar-select.png) ，切换到选择模式。
+1. 选择编辑工具栏的 ![選択](imgs/edit-toolbar-select.png) ，切换到选择模式。
 
 2. 点击要插入的位置来移动光标 (红线)。
 
@@ -200,7 +200,7 @@ ExSLIDE、ExHOLD 的插入方法请参考 [音符的种类和说明#ExSLIDE、Ex
 
 ## 插入拍子变更事件
 
-1. 选择编辑工具栏的 ![選択](../../img/edit-toolbar-select.png) ，切换到选择模式。
+1. 选择编辑工具栏的 ![選択](imgs/edit-toolbar-select.png) ，切换到选择模式。
 
 2. 点击要插入的位置来移动光标 (红线)。
 

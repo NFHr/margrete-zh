@@ -12,7 +12,7 @@
 
 
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 速度を変更したいノーツがある時間位置をクリックしてカーソル (赤線) を移動させます。
 
@@ -36,7 +36,7 @@
 
 ## ノーツ速度適用の概観
 
-![](../../img/chart-notes-speed-view.png)
+![](imgs/chart-notes-speed-view.png)
 
 
 
@@ -48,5 +48,5 @@
 
 
 
-![](../../img/chart-notes-speed-omake-1.png)
+![](imgs/chart-notes-speed-omake-1.png)
 

@@ -22,7 +22,7 @@
 
 在[长音符](#长音符)之间放置的，可以产生连击的音符。
 
-![Step](../img/example/step.png)
+![Step](../imgs/step.png)
 
 
 ## 控制点(Control)
@@ -34,11 +34,11 @@
 
 * 控制点 (直线控制点)
 
-  * ![直线控制点](../img/example/control-n.png)
+  * ![直线控制点](../imgs/control-n.png)
 
 * 曲线控制点 (贝塞尔曲线控制点)
 
-  * ![曲线控制点](../img/example/control-b.png)
+  * ![曲线控制点](../imgs/control-b.png)
 
 
 

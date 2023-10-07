@@ -2,7 +2,7 @@
 
 レギュレーション違反がないか精査します。  
 
-![](../../img/help-proofread.png)
+![](imgs/help-proofread.png)
 
 
 

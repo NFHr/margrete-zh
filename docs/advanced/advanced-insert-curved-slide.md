@@ -6,7 +6,7 @@ SLIDE 制御点を使用した本家風の曲線 SLIDE を挿入できます。
 
 ## 方法
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 挿入したい位置をクリックしてカーソル (赤線) を移動させます。
 
@@ -14,7 +14,7 @@ SLIDE 制御点を使用した本家風の曲線 SLIDE を挿入できます。
 
 4. 表示された画面でパラメーターを設定し、**挿入** をクリックします。  
 
-    ![](../../img/insert-curved-slide.png)
+    ![](imgs/insert-curved-slide.png)
 
 5. 曲線 SLIDE が挿入されます。
 
@@ -22,7 +22,7 @@ SLIDE 制御点を使用した本家風の曲線 SLIDE を挿入できます。
 
 ## 挿入した曲線 SLIDE の長さ変更の方法
 
-1. 編集ツールバーの ![選択](../../img/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
+1. 編集ツールバーの ![選択](imgs/edit-toolbar-select.png) をクリックして選択モードに切り替えます。
 
 2. 挿入した曲線 SLIDE 全体を囲むように範囲選択します。
 
@@ -36,5 +36,5 @@ SLIDE 制御点を使用した本家風の曲線 SLIDE を挿入できます。
 
 
 
-![](../../img/insert-curved-slide-1234.png)
+![](imgs/insert-curved-slide-1234.png)
 

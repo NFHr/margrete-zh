@@ -8,7 +8,7 @@
 
 ## Step.2 导出谱面
 
-1. 点击菜单的 **File** > ![export](../../img/file-export.png) **Export**。（或按下<kbd>F5</kbd>来快速导出谱面）
+1. 点击菜单的 **File** > ![export](imgs/file-export.png) **Export**。（或按下<kbd>F5</kbd>来快速导出谱面）
 
 2. 输入文件名，并点击保存。 **推荐使用和ugc文件一样的名称**
 
