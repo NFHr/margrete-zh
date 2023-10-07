@@ -20,17 +20,12 @@
 ***
 
 * 进阶篇 (制作中)
-  * [校对功能 - 检查谱面无理](advanced-proofread)
-  * [超车变速实现](advanced-oikoshi)
-  * [SoFlan (改变谱面的流动速度) 实现](advanced-softlanding)
+  * [谱面校对](advanced-proofread)
+  * [变速实现](advanced-sv)
   * [音符变换](advanced-transform)
-  * [曲线 SLIDE 生成](advanced-insert-curved-slide)
-  * [锯齿 SLIDE 生成](advanced-insert-zigzag-slide)
-  * [脚本 SLIDE 生成](advanced-script-slide)
-  * [在Tick音播放期间放置音符或事件](advanced-start-with-clicking)
-  * [关于场景背景图片](advanced-fieldbg)
-  * [导入 SUS 谱面或 UGC 谱面](advanced-import)
+  * [SLIDE 生成](advanced-insert-curved-slide)
   * [快捷键](advanced-shortcut-keys)
+  * [杂项](advanced-other)
 
 ***
 
