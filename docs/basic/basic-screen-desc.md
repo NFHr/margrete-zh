@@ -1,3 +1,3 @@
-# 基础篇 - 界面各部分的名称
+# 基础篇 - 操作界面
 
 ![window](../imgs/screen-desc.png)
