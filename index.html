@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Margrete</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <style>
+    .markdown-section h2 {
+      margin-left: -10px;
+      padding-left: 10px;
+      margin-top: 100px;
+      border-bottom: 1px solid rgba(0, 0, 0, .07);
+    }
+  </style>
+</head>
+
+<body>
+  <nav>
+    <a href="https://umgr.inonote.jp/download">下载Margrete</a>
+    <a
+      href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vsMprVebJ4PS-PDhHOyga7c0TDdLKqDc&authKey=eCMiKDj2bPf446M2TsTz3X9ffjcJudpSsa%2B1oqnL%2BynjH3I1Zj3j54rLV%2B40dv%2B1&noverify=0&group_code=863841531">谱面交流群</a>
+  </nav>
+  <div id="app">...</div>
+  <script>
+    window.$docsify = {
+      name: 'Margrete',
+      repo: '',
+      subMaxLevel: 2,
+      loadSidebar: true,
+      auto2top: true,
+      themeColor: '#2031A7',
+      plugins: [
+        function (hook, vm) {
+          hook.doneEach(function (content) {
+            if (document.title != 'Margrete')
+              document.title += ' - Margrete-zh'
+          });
+        }
+      ]
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-lua.min.js"></script>
+</body>
+
+</html>
