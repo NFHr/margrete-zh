@@ -12,12 +12,11 @@
   * 选择 **Config** > **General** > **UI Language**
   ![Umiguri](../imgs/margrate-language.png)
 
-* Margrete 
+* Margrete
 
-  * 在菜单中选择 **View (第五个)** > **Language (最后一个)** 
+  * 在菜单中选择 **View (第五个)** > **Language (最后一个)**
 
   ![Margrete](../imgs/margrate-language.png)
-
 
 ## 连接手台 (以说明书为例)
 
@@ -36,5 +35,5 @@
 * 选择 **Config** > **Key Mapping** > **Map**
 
     请按照指示，逐个触发手台按键
-    
+
     ![umiguri key mapping](../imgs/umiguri-key-mapping.png)

@@ -6,11 +6,10 @@
 
 * ![Auto](../imgs/umiguri-auto.png)
 
-
 ## 写谱模式
 
 * 在选曲界面按下<kbd>F4</kbd>进入写谱模式，再次按下<kbd>F4</kbd>则退出写谱模式。
- 
+
   ![editor1](../imgs/umiguri-editor.png)
 
 * 写谱模式下可调整播放时间，更改流速/播放速度，以及检查无理配置。

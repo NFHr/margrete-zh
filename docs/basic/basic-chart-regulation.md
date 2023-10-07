@@ -54,7 +54,7 @@
 
   * 起点、终点: <span style="color:red"> 1, 2, 3, 4, 6, 8, 16 </span>
 
-  * 中继点、控制点: <span style="color:red"> 1, 2, 3, 4, **5**, 6, 8, **10**, **12**, **14**, 16 </span>
+  * 中继点、控制点: <span style="color:red"> 1, 2, 3, 4, 5, 6, 8, 10, 12, 14, 16 </span>
 
 ![Examples](../imgs/reg-slide.png)
 
@@ -106,7 +106,7 @@
 
   * 起点、中继点、终点: <span style="color:red"> 1, 2, 3, 4, 6, 8, 16 </span>
 
-  * 控制点: <span style="color:red"> 1, 2, 3, 4, **5**, 6, 8, **10**, **12**, **14**, 16 </span>
+  * 控制点: <span style="color:red"> 1, 2, 3, 4, 5, 6, 8, 10, 12, 14, 16 </span>
 
 ## AIR-CRUSH
 
@@ -119,7 +119,7 @@
 * <div class="rainbow-text" style="text-align: left;"> <span class="block-line"><span><span style="color:#ff0000;">装</span><span style="color:#ff8c00;">饰</span><span style="color:#ffd700;">线</span><span style="color:#59ff00;">的</span><span style="color:#00ff2f;">颜</span><span style="color:#00ffbb;">色</span><span style="color:#00b7ff;">可</span><span style="color:#002bff;">以</span><span style="color:#5e00ff;">改</span><span style="color:#ea00ff;">变</span><span style="color:#ff0088;">。</span></span></span> </div>
 
 * 可以放置的音符宽度为：
-  * 起点、终点: <span style="color:red"> 1, 2, 3, 4, **5**, 6, 8, **10**, **12**, **14**, 16 </span>
+  * 起点、终点: <span style="color:red"> 1, 2, 3, 4, 5, 6, 8, 10, 12, 14, 16 </span>
 
 ## AIR-TRACE
 
@@ -150,8 +150,6 @@
 * **另外只要有一个 ExTAP 叠加，所有相同起点的判定都会变成 ExTAP 式的。**
 
   * 因此没有必要叠加多个 ExTap
-  * 
+  *
     *（图中有两个相同的起点和一个ExTap相互叠加）*
     ![two exslide](imgsexslide-example.png)
-
-    
